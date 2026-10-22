@@ -289,22 +289,16 @@ export const years = ["All", "2023", "2024", "2025"];
 
 export const education: Education[] = [
   {
-    degree: "Bachelor of Computer Science",
-    institution: "South Indian Education Society (SIES)",
-    duration: "2020 - 2023",
-    location: "Mumbai",
+    degree: "Master of Computer Application (MCA)",
+    institution: "MIT World Peace University,Pune",
+    duration: "2021 - 2023",
+    location: "Pune",
   },
   {
-    degree: "HSC (12th)",
-    institution: "Sai Nath Junior College",
-    duration: "2018 - 2020",
-    location: "Mumbai",
-  },
-  {
-    degree: "SSC (10th)",
-    institution: "Roopshree Vidhyalya",
-    duration: "2018",
-    location: "Mumbai",
+    degree: "Bachelor of Computer Application (BCA)",
+    institution: "Indira college of commerce and science",
+    duration: "2018 - 2021",
+    location: "Pune",
   },
 ];
 
